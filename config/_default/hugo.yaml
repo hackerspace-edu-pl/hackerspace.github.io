@@ -7,7 +7,7 @@ baseURL: 'https://hackerspace.edu.pl/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: pl
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
